@@ -24,11 +24,14 @@
     "helper",
     "index"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "lodash.get": "^4.3.0"
+  },
   "devDependencies": {
     "ava": "^0.15.1",
     "coveralls": "^2.11.9",
     "nyc": "^6.4.0",
+    "req-all": "^0.1.0",
     "xo": "^0.15.0"
   },
   "nyc": {
