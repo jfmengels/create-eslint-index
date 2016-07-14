@@ -1,6 +1,6 @@
 {
   "name": "create-eslint-index",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simplify the creation an index file for your ESLint plugin",
   "license": "MIT",
   "repository": "jfmengels/create-eslint-index",
