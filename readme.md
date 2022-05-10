@@ -1,6 +1,6 @@
 # create-eslint-index [![Build Status](https://travis-ci.org/jfmengels/create-eslint-index.svg?branch=master)](https://travis-ci.org/jfmengels/create-eslint-index) [![Coverage Status](https://coveralls.io/repos/github/jfmengels/create-eslint-index/badge.svg?branch=master)](https://coveralls.io/github/jfmengels/create-eslint-index?branch=master)
 
-> Simplify the creation an index file for your ESLint plugin
+> Simplify the creation of the index file for your ESLint plugin
 
 
 ## Install
